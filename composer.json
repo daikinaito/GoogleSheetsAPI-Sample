@@ -1,0 +1,14 @@
+{
+    "name": "niiyz/google-sheets-api-sample",
+    "description": "Google SpreadSheets API Sample",
+    "authors": [
+        {
+            "name": "niiyz",
+            "email": "yoshida@niiyz.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
